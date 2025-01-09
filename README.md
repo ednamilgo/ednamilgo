@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Edna Milgo
-- 👀 I’m interested in Machine Learning and Artificial Intelligence. Currently doing Markov Chain Monte Carlo(MCMC)  techniques for Sampling  and 
-stochastic optimization. I am intrested in all things Bayesian Inference, MCMC, ML models and Optimization techniques. 
+- 👋 Hi, I’m Dr.Edna Milgo
+- 👀 I’m interested in Machine Learning and Artificial Intelligence. Currently working on GenAi for Sentiment Analysis and Deep learning models
+  
+- Previous projects include Algorithms for Adaptive  Markov Chain Monte Carlo(MCMC) Sampling, Neural Network models for pricing of smartphones, Regreession and clustering models. 
 
+- I am intrested in all things Bayesian Inference, MCMC, GenAI and deep learning . 
 
+- Ask me about Python, MCMC, deep learning and optimization techniques
 
 <!---
 ednamilgo/ednamilgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
